@@ -1,0 +1,26 @@
+{
+    "appKeys": {
+        "message": 1,
+        "status": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "lance@getpebble.com",
+    "longName": "JSConf 2015 Schedule",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "JSC15 Schedule",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid":"d191d22e-1d58-4a47-8898-183c97eb9b7e",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false,
+        "hiddenApp": true
+    }
+}
